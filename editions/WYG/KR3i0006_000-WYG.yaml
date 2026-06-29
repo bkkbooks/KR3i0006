@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0006/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 端溪硯譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:17:18.956024'
+  source:
+    repository: kanripo
+    path: KR3i0006/KR3i0006_000.txt
+hash: sha256:177ccc0f15c0c14b61339ba9457bafe228d64ab3a8ac537d654a85dca42e34b0

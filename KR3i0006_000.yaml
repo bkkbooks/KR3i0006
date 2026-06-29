@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0006/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 端溪硯譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:18.956024'
+  source:
+    repository: kanripo
+    path: KR3i0006/KR3i0006_000.txt
+hash: sha256:93384904f4e8c5f07f0480f49999fd0d1ce0268f745bb194ab6900bdddf78922
