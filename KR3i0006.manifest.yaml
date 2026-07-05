@@ -21,9 +21,9 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR3i0006_000.yaml, hash: 'sha256:93384904f4e8c5f07f0480f49999fd0d1ce0268f745bb194ab6900bdddf78922'}
-  - {seq: 1, filename: KR3i0006_001.yaml, hash: 'sha256:17086955cc901e7e97e244b2d90c46f3b7091c10a4c30213bf7f7fd56ad1a427'}
+  - {seq: 1, filename: KR3i0006_001.yaml, hash: 'sha256:8a53fb614edc45a4dc892945ea891bd7259847be7b6eed00c3ec1cfa8c042fcc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0006_001.markers.yaml, hash: 'sha256:ce771e8c27027c2bbe73cbf7ee258aeb7312817a76db69a0bf4e3ee71b81c218'}
+  - {seq: 1, role: markers, filename: assets/KR3i0006_001.markers.yaml, hash: 'sha256:bba6da12867b3b1a3c5f9dd9d99be086973c4982dacb90920ee0fafa8805b438'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 端溪硯譜
   type: section
   level: 1
-hash: sha256:db485f0170f631a27bde6a093b8d6762929d38c9e2d1898fea24e5859edcf0a0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:564ed1ebe5fbe4dbe0514214b3fc725243acea55b41132c15a58299197bbaf3a
