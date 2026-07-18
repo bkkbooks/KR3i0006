@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3i0006_000-WYG.yaml, hash: 'sha256:177ccc0f15c0c14b61339ba9457bafe228d64ab3a8ac537d654a85dca42e34b0'}
   - {seq: 1, filename: KR3i0006_001-WYG.yaml, hash: 'sha256:3b6fbc0537fc7dabeee8fa6c8ad81855cc6130e9fabd76caecf385d5e24b0e0a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0006_001-WYG.markers.yaml, hash: 'sha256:a656258c251527b54fe017cf2351e42db514859d09732bc013a91616e0cbd110'}
+  - {seq: 1, role: markers, filename: assets/KR3i0006_001-WYG.markers.yaml, hash: 'sha256:36543bf77dc65447d2663b913eb9ea2eaa714b2ca737777db1a229b06a5d2596'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 端溪硯譜
   type: section
   level: 1
-hash: sha256:7e8e273f11419f61c3d72471f7ee28b3e8888ff5a1e5a36190f2255ac905a8ac
+hash: sha256:904e5c977d1f01e9c6f9b1a0654ad53a723932c18096191434294f5be591dfdc
